@@ -1,2 +1,2 @@
 # amir-resolusi
-repositori untuk menyimpan rencana amir untuk kedepannya
+the resolution for amir plan in the next time 
