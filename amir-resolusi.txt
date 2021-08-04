@@ -2,4 +2,4 @@ AMIR RESOLUSI
 - belajar git
 - menggunakan git utuk memulai project
 - menggunakan git untuk menyelesaikan project
-- meluncurkan project kepada konsumen
+- meluncurkan project kepada klien
