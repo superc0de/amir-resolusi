@@ -3,4 +3,4 @@ AMIR RESOLUSI
 - menggunakan git utuk memulai project
 - menggunakan git untuk menyelesaikan project
 - meluncurkan project kepada klien.
-- kamu aneh.
+- kamu hebat.
